@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>EStudy by Prismaple</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, architecto?
           </p>
         </div>
         <button
